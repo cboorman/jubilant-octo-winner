@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<people>
+	
+	<work>
+		<george height="5ft11" weight="320" hairColour="no hair"> 
+			<address>123 Anywhere Street</address>
+			<carType>No car</carType>
+			<favFood>Anything edible</favFood>
+		</george>
+
+		<paul height="5ft8" weight="180" hairColour="brown"> 
+			<address>124 Anywhere Street</address>
+			<carType>No car</carType>
+			<favFood>Anything edible</favFood>
+		</paul>
+	</work>
+
+	<home>
+		<indy height="5ft5" weight="195" hairColour="blue">
+			<address>64 January Street</address>
+			<carType>Ford Orion</carType>
+			<favFood>Quinoa</favFood>
+		</indy>
+
+		<sootzters height="35" weight="4" hairColour="black">
+			<address>16 Maple Avenue</address>
+			<carType>No car</carType>
+			<favFood>Iams</favFood>
+		</sootzters>
+	</home>
+</people>
